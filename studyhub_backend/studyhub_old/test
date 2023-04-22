@@ -1,0 +1,396 @@
+'''
+{
+    'search_metadata': 
+    {
+        'id': '641d2ced3a218a57926b54e3', 
+        'status': 'Success', 
+        'json_endpoint': 'https://serpapi.com/searches/c9c86ccbf03850d0/641d2ced3a218a57926b54e3.json', 
+        'created_at': '2023-03-24 04:54:05 UTC', 
+        'processed_at': '2023-03-24 04:54:05 UTC', 
+        'google_url': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&gl=us&sourceid=chrome&ie=UTF-8', 
+        'raw_html_file': 'https://serpapi.com/searches/c9c86ccbf03850d0/641d2ced3a218a57926b54e3.html', 
+        'total_time_taken': 4.45
+    }, 
+    'search_parameters': 
+    {
+        'engine': 'google', 
+        'q': "Examples of subverted arbitrary power in A Midsummer Night's Dream", 
+        'location_requested': 'Austin, Texas, United States', 
+        'location_used': 'Austin,Texas,United States', 
+        'google_domain': 'google.com', 
+        'hl': 'en', 
+        'gl': 'us', 
+        'device': 'desktop'
+    }, 
+    'search_information': 
+    {
+        'organic_results_state': 'Results for exact spelling', 
+        'query_displayed': "Examples of subverted arbitrary power in A Midsummer Night's Dream", 
+        'total_results': 94000, 
+        'time_taken_displayed': 0.53, 
+        'menu_items': [
+            {
+                'position': 1, 
+                'title': 'Videos', 
+                'link': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAC', 
+                'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&tbm=vid'
+            }, 
+            {
+                'position': 2, 
+                'title': 'Images', 
+                'link': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAE', 
+                'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&tbm=isch'
+            }, 
+            {
+                'position': 3, 
+                'title': 'Books', 
+                'link': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=bks&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAG'
+            }, 
+            {
+                'position': 4, 'title': 'News', 'link': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAI', 
+                'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&tbm=nws'
+            }, 
+            {
+                'position': 5, 
+                'title': 'Maps', 
+                'link': 'https://maps.google.com/maps?uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAK'
+            }, 
+            {
+                'position': 6, 
+                'title': 'Shopping', 
+                'link': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAM', 'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&tbm=shop'
+            }, 
+            {
+                'position': 7, 
+                'title': 'Flights', 
+                'link': 'https://www.google.com/flights?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&source=lnms&tbm=flm&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAO'
+            }, 
+            {
+                'position': 8, 
+                'title': 'Finance', 
+                'link': 
+                'https://www.google.com/finance?sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ0pQJegQIAhAQ'
+            }
+        ]
+    }, 
+    'related_questions': [
+        {
+            'question': 'What is an example of power in A Midsummer Nights Dream?', 
+            'snippet': 'First example of power in a Mid summer Night Dream:Oberon was using his power to try to take the blue child away from Titania. Oberon used the love flower/potion to make titian fall in love with him so he can take the child for himself. In William Shakespeare time the men and royalty controlled everything.', 
+            'title': 'Power in A Midsummer Night Dream - Prezi', 
+            'link': 'https://prezi.com/ol34bkuamm1x/power-in-a-midsummer-night-dream/', 
+            'displayed_link': 'https://prezi.com › power-in-a-midsummer-night-dream', 
+            'thumbnail': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/9f2d7119c81d41b2282fc289b98e11ec3d0795fda680735439f5fede2029cef4.png', 
+            'next_page_token': 'eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgcG93ZXIgaW4gQSBNaWRzdW1tZXIgTmlnaHRzIERyZWFtPyIsImxrIjoiR2kxbGVHRnRjR3hsY3lCdlppQndiM2RsY2lCcGJpQmhJRzFwWkhOMWJXMWxjaUJ1YVdkb2RITWdaSEpsWVcwIiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9', 
+            'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgcG93ZXIgaW4gQSBNaWRzdW1tZXIgTmlnaHRzIERyZWFtPyIsImxrIjoiR2kxbGVHRnRjR3hsY3lCdlppQndiM2RsY2lCcGJpQmhJRzFwWkhOMWJXMWxjaUJ1YVdkb2RITWdaSEpsWVcwIiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9'
+        }, 
+        {
+            'question': "What is an example of misogyny in A Midsummer Night's Dream?", 
+            'snippet': "As members of a patriarchal society, the women in A Midsummer Night's Dream are obligated to be subservient to the men. Power is only extended to women in the fictional world of Fairyland. This exemplifies the misogyny of the time, where women had no significant societal role in the real world.", 'title': "The Misogynic Perspective in A Midsummer Night's Dream", 
+            'date': 'Jun 3, 2018', 
+            'link': 'https://gradesfixer.com/free-essay-examples/a-midsummer-nights-misogyny/', 
+            'displayed_link': 'https://gradesfixer.com › a-midsummer-nights-misogyny', 
+            'thumbnail': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/9f2d7119c81d41b2282fc289b98e11ec61e169a717b087dff82d2907575d5fd4.png', 
+            'next_page_token': 'eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgbWlzb2d5bnkgaW4gQSBNaWRzdW1tZXIgTmlnaHQncyBEcmVhbT8iLCJsayI6IkdqRmxlR0Z0Y0d4bGN5QnZaaUJ0YVhOdlozbHVlU0JwYmlCaElHMXBaSE4xYlcxbGNpQnVhV2RvZENkeklHUnlaV0Z0IiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9', 
+            'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgbWlzb2d5bnkgaW4gQSBNaWRzdW1tZXIgTmlnaHQncyBEcmVhbT8iLCJsayI6IkdqRmxlR0Z0Y0d4bGN5QnZaaUJ0YVhOdlozbHVlU0JwYmlCaElHMXBaSE4xYlcxbGNpQnVhV2RvZENkeklHUnlaV0Z0IiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9'
+        }, 
+        {
+            'question': "What is an example of male dominance in A Midsummer Night's Dream?", 
+            'snippet': 'Oberon wants the baby, so he uses his “authority” as her husband, to force Titania to give up the boy. However, she disobeys him and leaves, infuriating Oberon. Oberon refuses to accept defeat, and gets puck, another fairy, to trick Titania with a magic love potion to fall in love with a beast(Nick Bottom).', 
+            'title': "Male Dominance In A Midsummer Night's Dream - IPL.org", 
+            'link': 'https://www.ipl.org/essay/Male-Dominance-In-A-Midsummer-Nights-Dream-FJJPRMXTYV', 
+            'displayed_link': 'https://www.ipl.org › essay › Male-Dominance-In-A-Mid...', 
+            'thumbnail': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/9f2d7119c81d41b2282fc289b98e11ec93514b6ff77a4ed6afe12612b5f7e082.png', 
+            'next_page_token': 'eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgbWFsZSBkb21pbmFuY2UgaW4gQSBNaWRzdW1tZXIgTmlnaHQncyBEcmVhbT8iLCJsayI6IkdqZGxlR0Z0Y0d4bGN5QnZaaUJ0WVd4bElHUnZiV2x1WVc1alpTQnBiaUJoSUcxcFpITjFiVzFsY2lCdWFXZG9kQ2R6SUdSeVpXRnQiLCJicyI6ImMtT3k1YklJejBnc1VjZ3NWa2pNVTBpdFNNd3R5RWxWeUU5VEtNZ3ZUeTFTeU14VGNGVHd6VXdwTHMzTkJYTDlNdE16U29vVlhJcFNFM1B0SmFZeGN6bHkyV0RYbnB0Wm5KOWVtVmVKMVFSMXVCRTNLN25jdVp4d0dKRUlwRlB5Y3pQekV2T1NVd2tZOUU2THk1ckxER3hRWWxHcVFrbEdxb0l4MEFTZ0ppQXpON1VZWkNDR2Rwam14Y29DakFBIiwiaWQiOiJmY18xIn0=', 
+            'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIGV4YW1wbGUgb2YgbWFsZSBkb21pbmFuY2UgaW4gQSBNaWRzdW1tZXIgTmlnaHQncyBEcmVhbT8iLCJsayI6IkdqZGxlR0Z0Y0d4bGN5QnZaaUJ0WVd4bElHUnZiV2x1WVc1alpTQnBiaUJoSUcxcFpITjFiVzFsY2lCdWFXZG9kQ2R6SUdSeVpXRnQiLCJicyI6ImMtT3k1YklJejBnc1VjZ3NWa2pNVTBpdFNNd3R5RWxWeUU5VEtNZ3ZUeTFTeU14VGNGVHd6VXdwTHMzTkJYTDlNdE16U29vVlhJcFNFM1B0SmFZeGN6bHkyV0RYbnB0Wm5KOWVtVmVKMVFSMXVCRTNLN25jdVp4d0dKRUlwRlB5Y3pQekV2T1NVd2tZOUU2THk1ckxER3hRWWxHcVFrbEdxb0l4MEFTZ0ppQXpON1VZWkNDR2Rwam14Y29DakFBIiwiaWQiOiJmY18xIn0%3D'
+        }, 
+        {
+            'question': 'What are the 3 main themes of A Midsummer Night Dream?', 
+            'title': 'Themes', 
+            'link': 'https://www.sparknotes.com/shakespeare/msnd/themes/', 
+            'list': ["Love's Difficulty. “The course of true love never did run smooth,” comments Lysander, articulating one of A Midsummer Night's Dream's most important themes—that of the difficulty of love (I.i.134). ... ", 'Magic. ... ', 'Dreams. ... ', 'Jealousy. ... ', 'Mischief. ... ', 'Transformation. ... ', 'Unreason. ... ', 'Reversal.'], 
+            'displayed_link': 'https://www.sparknotes.com › shakespeare › msnd › t...', 'thumbnail': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/9f2d7119c81d41b2282fc289b98e11ecd4796c40879a6ec5d53ba1408f131ffa.png', 
+            'next_page_token': 'eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMyBtYWluIHRoZW1lcyBvZiBBIE1pZHN1bW1lciBOaWdodCBEcmVhbT8iLCJsayI6ImM1TXlMYzlJTEZGSUxFcFZLTWxJVlRCV3lFM016QU14YzFPTEZmTFRGQklWY2pOVGlrdHpjMU9MRlBJeTB6TktGRktLVWhOekFRIiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9', 
+            'serpapi_link': 'https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVGJsSnhjbEpDYkc5bU5tUXhOWGxvTmtadVIwdFFTWEJ5TlZOSVVFcDJZV1YzTVVkTmVsUldlRkp1TTFkM2RuRjJRVGx5Y3pkc2MxTm9SRTB0YmtKaFJqRnNSVnBHRWhjM2VYZGtXa3BoT1VwT00wZHJVRWxRTkU0MmVIVkJaeG9pUVVaZk5rMUJUM1pmU1VzeGJsRmplREV5TFdVdFJsWkZkRU5JZVdGd1YzbDFRUSIsImZjdiI6IjMiLCJlaSI6Ijd5d2RaSmE5Sk4zR2tQSVA0TjZ4dUFnIiwicWMiOiJDa0psZUdGdGNHeGxjeUJ2WmlCemRXSjJaWEowWldRZ1lYSmlhWFJ5WVhKNUlIQnZkMlZ5SUdsdUlHRWdiV2xrYzNWdGJXVnlJRzVwWjJoMEozTWdaSEpsWVcwUUFIM2RDQW9fIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMyBtYWluIHRoZW1lcyBvZiBBIE1pZHN1bW1lciBOaWdodCBEcmVhbT8iLCJsayI6ImM1TXlMYzlJTEZGSUxFcFZLTWxJVlRCV3lFM016QU14YzFPTEZmTFRGQklWY2pOVGlrdHpjMU9MRlBJeTB6TktGRktLVWhOekFRIiwiYnMiOiJjLU95NWJJSXowZ3NVY2dzVmtqTVUwaXRTTXd0eUVsVnlFOVRLTWd2VHkxU3lNeFRjRlR3elV3cExzM05CWEw5TXRNelNvb1ZYSXBTRTNQdEphWXhjemx5MldEWG5wdFpuSjllbVZlSjFRUjF1QkUzSzduY3VaeHdHSkVJcEZQeWN6UHpFdk9TVXdrWTlFNkx5NXJMREd4UVlsR3FRa2xHcW9JeDBBU2dKaUF6TjdVWVpDQ0dkcGpteGNvQ2pBQSIsImlkIjoiZmNfMSJ9'
+        }
+    ], 
+    'organic_results': [
+        {
+            'position': 1, 
+            'title': "A Midsummer Night's Dream: Themes", 
+            'link': 'https://www.sparknotes.com/shakespeare/msnd/themes/', 
+            'displayed_link': 'https://www.sparknotes.com › shakespeare › msnd › t...', 
+            'snippet': 'When Titania professes her love for Bottom, he responds coolly: “Methinks, mistress, you should have little reason for that” (III.i.). By turns disturbing and ...', 
+            'about_this_result': {
+                'source': {
+                    'description': 'SparkNotes, originally part of a website called The Spark, is a company started by Harvard students Sam Yagan, Max Krohn, Chris Coyne, and Eli Bolotin in 1999 that originally provided study guides for literature, poetry, history, film, and philosophy.', 
+                    'source_info_link': 'https://www.sparknotes.com/shakespeare/msnd/themes/', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd03e2b7541917bb8643eaa7959296bb742630a9f318b25016e0bb77914ddd60d69.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://www.sparknotes.com/shakespeare/msnd/themes/&tbm=ilp&ilps=AB_Lh3rXm1qjRZrIRByrfVrMf1mLRfX98g', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rXm1qjRZrIRByrfVrMf1mLRfX98g&q=About+https%3A%2F%2Fwww.sparknotes.com%2Fshakespeare%2Fmsnd%2Fthemes%2F', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:_Smor7ZOOyYJ:https://www.sparknotes.com/shakespeare/msnd/themes/&cd=1&hl=en&ct=clnk&gl=us', 
+            'missing': ['subverted', 'arbitrary']
+        }, 
+        {
+            'position': 2, 
+            'title': "A Critical Deconstruction of Humor in William Shakespeare's A ...", 
+            'link': 'https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1233&context=masters-theses', 
+            'displayed_link': 'https://scholar.dominican.edu › cgi › viewcontent', 
+            'snippet': "A Midsummer Night's Dream must have a Theseus, a Hippolyta, a Bottom, a. Quince, a Helena, a Hermia, a Puck, etc., but just as important, it must have an.", 
+            'snippet_highlighted_words': ["Midsummer Night's Dream"], 
+            'rich_snippet': {
+                'top': {
+                    'extensions': ['by J Libby', '2016 —'], 
+                    'detected_extensions': {
+                        'unknown': 2016
+                    }
+                }
+            }, 
+            'about_this_result': {
+                'source': {
+                    'description': 'Dominican University of California is a private university in San Rafael, California. It was founded in 1890 as Dominican College by the Dominican Sisters of San Rafael. It is one of the oldest universities in California.\nDominican is accredited by the Western Association of Schools and Colleges.', 
+                    'source_info_link': 'https://scholar.dominican.edu/cgi/viewcontent.cgi?article=1233&context=masters-theses', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd015b5a61101785a4102ab0b882cdaebf4b6c6aad48934d4e31965b45a67dd5b5e.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://scholar.dominican.edu/cgi/viewcontent.cgi?article%3D1233%26context%3Dmasters-theses&tbm=ilp&ilps=AB_Lh3p3tg7Af9ClO56_8MegQpcmMKHiCg', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p3tg7Af9ClO56_8MegQpcmMKHiCg&q=About+https%3A%2F%2Fscholar.dominican.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1233%26context%3Dmasters-theses'
+        }, 
+        {
+            'position': 3, 
+            'title': "A Midsummer Night's Dream Gender", 
+            'link': 'https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/themes/gender', 
+            'displayed_link': 'https://www.shmoop.com › literature › themes › gender', 
+            'snippet': 'Shakespeare argues that women are subject to a different view of reality when it comes to love.', 
+            'about_this_result': {
+                'source': {
+                    'description': 'Shmoop University Inc. is a for-profit online educational technology company that specializes in test preparation materials, mental health tools, and learning content for K-12 schools.', 
+                    'source_info_link': 'https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/themes/gender', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd0591f67dee807436b201435c1503d75fe6edf601228bef72b302a6f7704118d03.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/themes/gender&tbm=ilp&ilps=AB_Lh3oGlk0pPM_IcRRbj7fTa6MCoBbqZg', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oGlk0pPM_IcRRbj7fTa6MCoBbqZg&q=About+https%3A%2F%2Fwww.shmoop.com%2Fstudy-guides%2Fliterature%2Fmidsummer-nights-dream%2Fthemes%2Fgender', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:GQbWgXO_WFAJ:https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/themes/gender&cd=3&hl=en&ct=clnk&gl=us', 
+            'missing': ['arbitrary'], 
+            'must_include': {
+                'word': 'arbitrary', 
+                'link': "https://www.google.com/search?gl=us&q=Examples+of+subverted+%22arbitrary%22+power+in+A+Midsummer+Night's+Dream&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ5t4CegQILxAB"
+            }, 
+            'related_results': [
+                {
+                    'position': 1, 
+                    'title': "A Midsummer Night's Dream Gender", 
+                    'link': 'https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/quotes/gender', 
+                    'displayed_link': 'https://www.shmoop.com › literature › quotes › gender', 
+                    'snippet': "In Shakespeare's play, though, men regain their positions of power over women. (Theseus marries the Amazonian Queen he won in battle and, also, Oberon ...", 
+                    'snippet_highlighted_words': ['power'], 
+                    'about_this_result': {
+                        'source': {
+                            'description': 'Shmoop University Inc. is a for-profit online educational technology company that specializes in test preparation materials, mental health tools, and learning content for K-12 schools.', 
+                            'source_info_link': 'https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/quotes/gender', 
+                            'security': 'secure', 
+                            'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd07d26f4f94cc2bbad6df7bf6edf1bf8cb3f6e508ecfc0f1fff24ff9dcc87e99af009d8fcdd4e5e5d176efbe40dc8eda140442a14f83f938b6.png'
+                        }
+                    }, 
+                    'about_page_link': 'https://www.google.com/search?q=About+https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/quotes/gender&tbm=ilp&ilps=AB_Lh3pcbdZY-ZVgAFA1BXwwFyr-wwe4aA', 
+                    'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pcbdZY-ZVgAFA1BXwwFyr-wwe4aA&q=About+https%3A%2F%2Fwww.shmoop.com%2Fstudy-guides%2Fliterature%2Fmidsummer-nights-dream%2Fquotes%2Fgender', 
+                    'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:0zd8l0HQ9roJ:https://www.shmoop.com/study-guides/literature/midsummer-nights-dream/quotes/gender&cd=4&hl=en&ct=clnk&gl=us'
+                }
+            ]
+        }, 
+        {
+            'position': 4, 
+            'title': "A Modern Perspective: A Midsummer Night's Dream", 
+            'link': 'https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/a-midsummer-nights-dream-a-modern-perspective/', 
+            'displayed_link': 'https://www.folger.edu › explore › shakespeares-works', 'snippet': "Because of love's power to idealize, the object of desire seems unique, even though in the event it turns out that Hermia and Helena are interchangeable. But ...", 
+            'snippet_highlighted_words': ['power'], 
+            'about_this_result': {
+                'source': {
+                    'description': "The Folger Shakespeare Library is an independent research library on Capitol Hill in Washington, D.C., United States. It has the world's largest collection of the printed works of William Shakespeare, and is a primary repository for rare materials from the early modern period in Britain and Europe.", 
+                    'source_info_link': 'https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/a-midsummer-nights-dream-a-modern-perspective/', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd0e0302c31cad02165a4a57638af7eed1cc5369a23b34fe5d1801091e642e05a3a.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/a-midsummer-nights-dream-a-modern-perspective/&tbm=ilp&ilps=AB_Lh3q4DVyidXqOJKqu5ndS4UVyllk8qg', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q4DVyidXqOJKqu5ndS4UVyllk8qg&q=About+https%3A%2F%2Fwww.folger.edu%2Fexplore%2Fshakespeares-works%2Fa-midsummer-nights-dream%2Fa-midsummer-nights-dream-a-modern-perspective%2F', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:QnE2A0h0wf4J:https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/a-midsummer-nights-dream-a-modern-perspective/&cd=13&hl=en&ct=clnk&gl=us', 
+            'missing': ['subverted'], 
+            'must_include': {
+                'word': 'subverted', 
+                'link': "https://www.google.com/search?gl=us&q=Examples+of+%22subverted%22+arbitrary+power+in+A+Midsummer+Night's+Dream&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ5t4CegQIHxAB"
+            }
+        }, 
+        {
+            'position': 5, 
+            'title': "Gender Quotes in A Midsummer Night's Dream", 
+            'link': 'https://study.com/academy/lesson/gender-quotes-in-a-midsummer-nights-dream.html', 
+            'displayed_link': 'https://study.com › academy › lesson › gender-quotes-...', 
+            'date': 'Dec 1, 2021', 
+            'snippet': 'While Egeus makes it clear that he believes that his daughter should obey him, Theseus backs Egeus up, arguing that a daughter is at the hand ...', 
+            'about_this_result': {
+                'source': {
+                    'description': 'study.com was first indexed by Google more than 10 years ago', 
+                    'source_info_link': 'https://study.com/academy/lesson/gender-quotes-in-a-midsummer-nights-dream.html', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd0653384f5d57e71f3f0d4ee24f7296fab3cc21df29ea5f44b7c78a4134f6db325.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://study.com/academy/lesson/gender-quotes-in-a-midsummer-nights-dream.html&tbm=ilp&ilps=AB_Lh3oOfPOEz84ccRhVJS-_0bRt-ERejQ', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oOfPOEz84ccRhVJS-_0bRt-ERejQ&q=About+https%3A%2F%2Fstudy.com%2Facademy%2Flesson%2Fgender-quotes-in-a-midsummer-nights-dream.html', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:hAKZ_yBr-vwJ:https://study.com/academy/lesson/gender-quotes-in-a-midsummer-nights-dream.html&cd=14&hl=en&ct=clnk&gl=us', 
+            'missing': ['arbitrary'], 
+            'must_include': {
+                'word': 'arbitrary', 
+                'link': "https://www.google.com/search?gl=us&q=Examples+of+subverted+%22arbitrary%22+power+in+A+Midsummer+Night's+Dream&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ5t4CegQIIBAB"
+            }
+        }, 
+        {
+            'position': 6, 
+            'title': 'Erin Hinchman Final Portfolio - Open Scholarship', 
+            'link': 'https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27971/Hinchman_JackShallHaveJill_2021.pdf?sequence=1&isAllowed=y', 
+            'displayed_link': 'https://scholarworks.iu.edu › bitstream › handle', 
+            'snippet': "My character analysis of Puck/Robin Goodfellow seeks to prove this literary function in. A Midsummer Night's Dream, pointing to how they provoke ...", 
+            'snippet_highlighted_words': ["Midsummer Night's Dream"], 
+            'rich_snippet': {
+                'top': {
+                    'extensions': ['by E Hinchman', '2021 —'], 
+                    'detected_extensions': {'unknown': 2021}
+                }
+            }, 
+            'about_this_result': {
+                'source': {
+                    'description': 'Indiana University is a system of public universities in the U.S. state of Indiana.', 
+                    'source_info_link': 'https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27971/Hinchman_JackShallHaveJill_2021.pdf?sequence=1&isAllowed=y', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd04104f32a08c8653189fa1e6174cee63523071e6a3b14514b019cf2ea2f799cac.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27971/Hinchman_JackShallHaveJill_2021.pdf?sequence%3D1%26isAllowed%3Dy&tbm=ilp&ilps=AB_Lh3rFKmBXmk-XCrbcM8F36lWeJ0LQww', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rFKmBXmk-XCrbcM8F36lWeJ0LQww&q=About+https%3A%2F%2Fscholarworks.iu.edu%2Fdspace%2Fbitstream%2Fhandle%2F2022%2F27971%2FHinchman_JackShallHaveJill_2021.pdf%3Fsequence%3D1%26isAllowed%3Dy', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:Sa4JkV_t3NUJ:https://scholarworks.iu.edu/dspace/bitstream/handle/2022/27971/Hinchman_JackShallHaveJill_2021.pdf%3Fsequence%3D1%26isAllowed%3Dy&cd=15&hl=en&ct=clnk&gl=us'
+        }, 
+        {
+            'position': 7, 'title': "A Midsummer Night's Dream (Theatre)", 
+            'link': 'https://tvtropes.org/pmwiki/pmwiki.php/Theatre/AMidsummerNightsDream', 
+            'displayed_link': 'https://tvtropes.org › Theatre', 
+            'snippet': 'Double Standard: Rape, Divine on Mortal: Titania is dosed with a love potion, and forced to fall desperately in love with the next thing she sees, which is ...', 
+            'about_this_result': {
+                'source': {
+                    'description': 'TV Tropes is a wiki website that collects and documents descriptions and examples of plot conventions and devices, which it refers to as tropes, within many creative works.', 
+                    'source_info_link': 'https://tvtropes.org/pmwiki/pmwiki.php/Theatre/AMidsummerNightsDream', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd0c598809f61fc1e616cdba5f3db4f4d0868806098a2ac8541181780f08690ad61.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://tvtropes.org/pmwiki/pmwiki.php/Theatre/AMidsummerNightsDream&tbm=ilp&ilps=AB_Lh3qxKrKgfnOi-NUySVm_fh6o1096xw', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qxKrKgfnOi-NUySVm_fh6o1096xw&q=About+https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FTheatre%2FAMidsummerNightsDream', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:94oBILX4GaMJ:https://tvtropes.org/pmwiki/pmwiki.php/Theatre/AMidsummerNightsDream&cd=16&hl=en&ct=clnk&gl=us'
+        }, 
+        {
+            'position': 8, 'title': 'Christian Folly and the Subversion of Hierarchy in " ...', 
+            'link': 'https://www.jstor.org/stable/40059709', 
+            'displayed_link': 'https://www.jstor.org › stable', 
+            'snippet': "In A Midsummer Night's Dream, a work which alludes to and clearly echoes The Praise of Folly, ... means by which Shakespeare subverts the hierarchical st.", 
+            'snippet_highlighted_words': ["Midsummer Night's Dream", 'subverts'], 
+            'rich_snippet': {
+                'top': {
+                    'extensions': ['by EE Stockard', '1997', 'Cited by 9 —'], 
+                    'detected_extensions': {'unknown': 1997, 'cited_by': 9}
+                }
+            }, 
+            'about_this_result': {
+                'source': {
+                    'description': 'JSTOR is a digital library founded in 1995 in New York City. Originally containing digitized back issues of academic journals, it now encompasses books and other primary sources as well as current issues of journals in the humanities and social sciences. It provides full-text searches of almost 2,000 journals.', 
+                    'source_info_link': 'https://www.jstor.org/stable/40059709', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd03e8dceaee3ad59b9920e7ea09afd5c0e0a961e80a355df9c27ad5e55e2fcb9d0.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://www.jstor.org/stable/40059709&tbm=ilp&ilps=AB_Lh3qrLRWlYeNxXh_zQBO0jNlOW20hog', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qrLRWlYeNxXh_zQBO0jNlOW20hog&q=About+https%3A%2F%2Fwww.jstor.org%2Fstable%2F40059709'
+        }, 
+        {
+            'position': 9, 
+            'title': "Love, Magic, and Dreams: An analysis of Shakespeare's “A ...", 
+            'link': 'https://mvlteenvoice.com/2022/03/25/love-magic-and-dreams-an-analysis-of-shakespeares-a-midsummer-nights-dream/', 
+            'displayed_link': 'https://mvlteenvoice.com › 2022/03/25 › love-magic-...', 
+            'date': 'Mar 25, 2022', 
+            'snippet': "An entertaining and humorous read, the play “A Midsummer Night's ... For example, Hippolyta expresses that “Four nights will quickly dream ...", 
+            'snippet_highlighted_words': ["Midsummer Night's", 'example', 'nights', 'dream'], 
+            'about_this_result': {
+                'source': {
+                    'description': 'mvlteenvoice.com was first indexed by Google in May 2013', 
+                    'source_info_link': 'https://mvlteenvoice.com/2022/03/25/love-magic-and-dreams-an-analysis-of-shakespeares-a-midsummer-nights-dream/', 
+                    'security': 'secure', 
+                    'icon': 'https://serpapi.com/searches/641d2ced3a218a57926b54e3/images/d978eb3505aad36ec8dea76db38f8bd0a224512c78daf36e4457128e5d43ba00cffd89202c014fd2bc820dacef30f04b.png'
+                }
+            }, 
+            'about_page_link': 'https://www.google.com/search?q=About+https://mvlteenvoice.com/2022/03/25/love-magic-and-dreams-an-analysis-of-shakespeares-a-midsummer-nights-dream/&tbm=ilp&ilps=AB_Lh3oQrPXYrQCWshlzR8cHydjU_tj4OQ', 
+            'about_page_serpapi_link': 'https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oQrPXYrQCWshlzR8cHydjU_tj4OQ&q=About+https%3A%2F%2Fmvlteenvoice.com%2F2022%2F03%2F25%2Flove-magic-and-dreams-an-analysis-of-shakespeares-a-midsummer-nights-dream%2F', 
+            'cached_page_link': 'https://webcache.googleusercontent.com/search?q=cache:cfxrHP-cBvoJ:https://mvlteenvoice.com/2022/03/25/love-magic-and-dreams-an-analysis-of-shakespeares-a-midsummer-nights-dream/&cd=18&hl=en&ct=clnk&gl=us', 
+            'missing': ['subverted'], 
+            'must_include': {
+                'word': 'subverted', 
+                'link': "https://www.google.com/search?gl=us&q=Examples+of+%22subverted%22+arbitrary+power+in+A+Midsummer+Night's+Dream&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ5t4CegQIURAB"
+            }
+        }
+    ], 
+    'related_searches': [
+        {
+            'query': "a midsummer night's dream themes pdf", 
+            'link': 'https://www.google.com/search?gl=us&q=A+Midsummer+Night%27s+Dream+themes+PDF&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg_EAE'
+        }, 
+        {
+            'query': "a midsummer night's dream themes and quotes", 
+            'link': 'https://www.google.com/search?gl=us&q=A+Midsummer+Night%27s+Dream+Themes+and+Quotes&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg-EAE'
+        }, 
+        {
+            'query': "what are the themes of a midsummer night's dream", 
+            'link': 'https://www.google.com/search?gl=us&q=What+are+the+themes+of+A+Midsummer+Night%27s+Dream&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg9EAE'
+        }, 
+        {
+            'query': "a midsummer night's dream gender roles essay", 
+            'link': 'https://www.google.com/search?gl=us&q=A+Midsummer+Night%27s+Dream+gender+roles+Essay&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg8EAE'
+        }, 
+        {
+            'query': "a midsummer night's dream theme essay", 
+            'link': 'https://www.google.com/search?gl=us&q=A+Midsummer+Night%27s+Dream+theme+essay&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg5EAE'
+        }, 
+        {
+            'query': "a midsummer night's dream theme of love", 
+            'link': 'https://www.google.com/search?gl=us&q=A+Midsummer+Night%27s+Dream+theme+of+love&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAg4EAE'
+        }, 
+        {
+            'query': "themes in a midsummer night's dream act 1", 
+            'link': 'https://www.google.com/search?gl=us&q=Themes+in+A+Midsummer+Night%27s+Dream+Act+1&sa=X&ved=2ahUKEwjW8Kv34vP9AhVdI0QIHWBvDIcQ1QJ6BAhAEAE'
+        }
+    ], 
+    'pagination': {
+        'current': 1, 
+        'next': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&start=10&sourceid=chrome&ie=UTF-8', 
+        'other_pages': {
+            '2': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&start=10&sourceid=chrome&ie=UTF-8', 
+            '3': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&start=20&sourceid=chrome&ie=UTF-8', 
+            '4': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&start=30&sourceid=chrome&ie=UTF-8', 
+            '5': 'https://www.google.com/search?q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&oq=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&gl=us&start=40&sourceid=chrome&ie=UTF-8'
+        }
+    }, 
+    'serpapi_pagination': {
+        'current': 1, 
+        'next_link': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=10', 
+        'next': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=10', 
+        'other_pages': {
+            '2': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=10', 
+            '3': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=20', 
+            '4': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=30', 
+            '5': 'https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Examples+of+subverted+arbitrary+power+in+A+Midsummer+Night%27s+Dream&start=40'}
+        }
+    }
+'''
